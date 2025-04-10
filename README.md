@@ -28,14 +28,14 @@ Use _**camelCase**_ para nomear variáveis e funções
 #### &#x20;Má nomenclatura 🚫
 
 ```typescript
-let FulanoVariavel: string = '#ForaBolsonaro';
+let FulanoVariavel: string = 'FulanoDaSilva';
 function CiclanoFuncao(){}
 ```
 
 #### Boa nomenclatura ✅​&#x20;
 
 ```typescript
-let fulanoVariavel: string = '#ForaBolsonaro';
+let fulanoVariavel: string = 'FulanoDaSilva';
 function ciclanoFuncao(){}
 ```
 
